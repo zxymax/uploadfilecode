@@ -1,0 +1,2 @@
+# uploadfilecode
+vuex uploadfile component
